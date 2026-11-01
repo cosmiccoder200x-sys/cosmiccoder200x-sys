@@ -47,9 +47,10 @@ I love turning ideas into working products, exploring new technologies, and solv
 
 | Project | Description |
 |---|---|
-| 🧠 [Local Brain MCP](https://github.com/cosmiccoder200x-sys/local-brain-mcp) | Local memory system for AI coding assistants. |
-| 🖼️ [WallpaperX](https://github.com/cosmiccoder200x-sys/wallpaperX) | Wallpaper discovery and management project. |
-| 🔖 [Xboost](https://github.com/cosmiccoder200x-sys) | Bookmark management and productivity ecosystem. |
+|  [Local Brain MCP](https://github.com/cosmiccoder200x-sys/local-brain-mcp) | Local memory system for AI coding assistants. |
+|  [Modulr](https://github.com/cosmiccoder200x-sys/modulr) | Prompt lab for sem exams,cs topics. |
+|  [Focusflow](https://github.com/cosmiccoder200x-sys/local-brain-mcp) | Chrome extension — track sites, block distractions, Pomodoro timer, dark mode & coding dashboard. |
+|
 
 ---
 
