@@ -13,6 +13,25 @@ I love turning ideas into working products, exploring new technologies, and solv
 
 ---
 
+## 🌐 Portfolio & GitHub Analytics
+
+Explore my portfolio, selected projects, and repository traffic dashboard.
+
+<p align="center">
+  <a href="https://sreerang.cosmiccoder200x.workers.dev/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-090909?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://sreerang.cosmiccoder200x.workers.dev/analytics/">
+    <img src="https://img.shields.io/badge/GITHUB_ANALYTICS-090909?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Analytics Dashboard" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Repository views · Clones · Top projects · Traffic sources</sub>
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages
