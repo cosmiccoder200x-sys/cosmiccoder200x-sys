@@ -4,12 +4,12 @@
 
 I love turning ideas into working products, exploring new technologies, and solving challenging problems.
 
-- 🔭 **Currently building:** AI-powered tools, automation workflows, and full-stack applications.
-- 🌱 **Currently learning:** Data Structures & Algorithms, AI Engineering, Data Science, and System Design.
-- 💻 **Interested in:** Software Engineering, AI Agents, Developer Tools, and Open Source.
-- 🎯 **2026 Goal:** Become a strong Full-Stack Engineer and Forward Deployed Engineer (FDE).
-- 🤝 **Open to:** Open-source contributions, collaborations, and exciting projects.
-- ⚡ **Fun fact:** I enjoy mathematics, competitive problem-solving, and building things that make life easier.
+-  **Currently building:** AI-powered tools, automation workflows, and full-stack applications.
+-  **Currently learning:** Data Structures & Algorithms, AI Engineering, Data Science, and System Design.
+-  **Interested in:** Software Engineering, AI Agents, Developer Tools, and Open Source.
+-  **2026 Goal:** Become a strong Full-Stack Engineer and Forward Deployed Engineer (FDE).
+-  **Open to:** Open-source contributions, collaborations, and exciting projects.
+-  **Fun fact:** I enjoy mathematics, competitive problem-solving, and building things that make life easier.
 
 ---
 
@@ -40,17 +40,6 @@ I love turning ideas into working products, exploring new technologies, and solv
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description |
-|---|---|
-|  [Local Brain MCP](https://github.com/cosmiccoder200x-sys/local-brain-mcp) | Local memory system for AI coding assistants. |
-|  [Modulr](https://github.com/cosmiccoder200x-sys/modulr) | Prompt lab for sem exams,cs topics. |
-|  [Focusflow](https://github.com/cosmiccoder200x-sys/local-brain-mcp) | Chrome extension — track sites, block distractions, Pomodoro timer, dark mode & coding dashboard. |
-
 
 ---
 
