@@ -50,7 +50,7 @@ I love turning ideas into working products, exploring new technologies, and solv
 |  [Local Brain MCP](https://github.com/cosmiccoder200x-sys/local-brain-mcp) | Local memory system for AI coding assistants. |
 |  [Modulr](https://github.com/cosmiccoder200x-sys/modulr) | Prompt lab for sem exams,cs topics. |
 |  [Focusflow](https://github.com/cosmiccoder200x-sys/local-brain-mcp) | Chrome extension — track sites, block distractions, Pomodoro timer, dark mode & coding dashboard. |
-|
+
 
 ---
 
