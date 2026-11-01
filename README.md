@@ -18,7 +18,7 @@ I love turning ideas into working products, exploring new technologies, and solv
 Explore my portfolio, selected projects, and repository traffic dashboard.
 
 <p align="center">
-  <a href="https://sreerang.cosmiccoder200x.workers.dev/">
+  <a href="https://sreerang.projects.dev/">
     <img src="https://img.shields.io/badge/PORTFOLIO-090909?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://sreerang.cosmiccoder200x.workers.dev/analytics/">
@@ -73,19 +73,6 @@ Explore my portfolio, selected projects, and repository traffic dashboard.
   <img width="95%" src="https://streak-stats.demolab.com?user=cosmiccoder200x-sys&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 🏆 Achievements & Activity
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cosmiccoder200x-sys&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" width="95%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cosmiccoder200x-sys&theme=tokyo-night&hide_border=true" width="95%" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
