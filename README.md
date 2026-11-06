@@ -87,6 +87,16 @@ Explore my portfolio, selected projects, and repository traffic dashboard.
 
 ---
 
+## ☕ Support My Work
+
+<p align="center">
+  <a href="https://buymeacoffee.com/sreerang">
+    <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000" alt="Buy Me a Coffee" />
+  </a>
+</p>
+
+---
+
 <p align="center">
   <b>Build. Break. Learn. Improve.</b>
   <br/>
