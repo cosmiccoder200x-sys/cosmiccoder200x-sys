@@ -106,3 +106,18 @@ Explore my portfolio, selected projects, and repository traffic dashboard.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cosmiccoder200x-sys&style=flat-square&color=blueviolet" alt="Profile views" />
 </p>
+
+---
+
+## 📈 Contribution Trading Terminal
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="assets/terminal-light.svg">
+    <img src="assets/terminal-dark.svg" alt="GitHub contributions visualized as a trading terminal" width="100%">
+  </picture>
+</p>
+
+<p align="center">
+  <sub>Last 90 days of GitHub activity · Updated automatically every 6 hours · <a href="https://github.com/hanzlabaig-dev/gh-trading-terminal">Powered by gh-trading-terminal</a></sub>
+</p>
