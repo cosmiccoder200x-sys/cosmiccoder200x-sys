@@ -31,3 +31,17 @@ jobs:
           light-theme: light
           output-dir: assets
           token: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
+          commit: 'false'
+
+      - name: Commit updated SVGs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/terminal-dark.svg assets/terminal-light.svg
+          if git diff --cached --quiet; then
+            echo "Trading terminal is already up to date."
+          else
+            git commit -m "chore: refresh contribution trading terminal"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
