@@ -1,0 +1,33 @@
+name: Update GitHub Trading Terminal
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 */6 * * *'
+  push:
+    paths:
+      - '.github/workflows/terminal.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-trading-terminal
+  cancel-in-progress: false
+
+jobs:
+  terminal:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate contribution trading terminal
+        uses: hanzlabaig-dev/gh-trading-terminal@fac4bd65b8b210ea5bc72af1756c58f452aaac12 # v1
+        with:
+          username: cosmiccoder200x-sys
+          days: '90'
+          theme: tradingview
+          light-theme: light
+          output-dir: assets
+          token: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
